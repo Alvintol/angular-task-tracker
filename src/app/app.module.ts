@@ -3,7 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './component/header/header.component';
-import { ButtonComponent } from './components/button/button.component';
+import { ButtonComponent } from './component/button/button.component';
 
 @NgModule({
   declarations: [
